@@ -1,0 +1,47 @@
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\IllovoOvertimeSystemDesktop.exe.config
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\IllovoOvertimeSystemDesktop.exe
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\IllovoOvertimeSystemDesktop.pdb
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\BouncyCastle.Crypto.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\Google.Protobuf.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Compression.LZ4.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Hash.xxHash.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\MySql.Data.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Buffers.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.IO.Pipelines.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Memory.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\ZstdSharp.dll
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\BouncyCastle.Crypto.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\Google.Protobuf.pdb
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\Google.Protobuf.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Compression.LZ4.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\K4os.Hash.xxHash.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\MySql.Data.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Buffers.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.IO.Pipelines.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Memory.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.csproj.AssemblyReference.cache
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.clockin.resources
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.clockout.resources
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.Properties.Resources.resources
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.welcome.resources
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.csproj.GenerateResource.cache
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.csproj.CoreCompileInputs.cache
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.csproj.CopyComplete
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.exe
+C:\wamp64\www\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.pdb
+C:\Users\gausi\Downloads\OT\Computing Project _ Tawonga Gausi _ P00194893\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.csproj.AssemblyReference.cache
+C:\Users\gausi\Downloads\OT\Computing Project _ Tawonga Gausi _ P00194893\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.exe
+C:\Users\gausi\Downloads\OT\Computing Project _ Tawonga Gausi _ P00194893\IllovoOvertimeSystemDesktop\IllovoOvertimeSystemDesktop\obj\Debug\IllovoOvertimeSystemDesktop.pdb
